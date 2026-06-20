@@ -1,0 +1,66 @@
+{
+    "games_played": 15,
+    "highest_score": 165,
+    "best_streak": 4,
+    "total_attempts": 91,
+    "fastest_time": 46.5303053855896,
+    "achievements": [
+        "Persistent"
+    ],
+    "player_name": "trm",
+    "points": 76,
+    "daily_seed": "",
+    "daily_high": 72,
+    "leaderboard": [
+        {
+            "name": "Player1",
+            "score": 165,
+            "time": 46.5,
+            "date": "2026-06-18 17:01",
+            "mode": "custom"
+        },
+        {
+            "name": "Player1",
+            "score": 120,
+            "time": 61.5,
+            "date": "2026-06-18 17:02",
+            "mode": "vsbot"
+        },
+        {
+            "name": "trm",
+            "score": 120,
+            "time": 175.9,
+            "date": "2026-06-20 18:04",
+            "mode": "normal"
+        },
+        {
+            "name": "trm",
+            "score": 105,
+            "time": 71.4,
+            "date": "2026-06-20 17:55",
+            "mode": "multiplayer"
+        },
+        {
+            "name": "trm",
+            "score": 105,
+            "time": 85.3,
+            "date": "2026-06-20 18:33",
+            "mode": "normal"
+        },
+        {
+            "name": "trm",
+            "score": 90,
+            "time": 106.6,
+            "date": "2026-06-20 17:48",
+            "mode": "vsbot"
+        },
+        {
+            "name": "trm",
+            "score": 72,
+            "time": 145.5,
+            "date": "2026-06-20 18:00",
+            "mode": "daily"
+        }
+    ],
+    "theme": "Retro"
+}
